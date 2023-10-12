@@ -1,6 +1,6 @@
 # Sparks of Language Intelligence: From Chain-of-Thought Reasoning to Language Agent Automation
 
-![image-20231012212721056](C:\Users\12970\AppData\Roaming\Typora\typora-user-images\image-20231012212721056.png)
+![CoT_overview](\fig\CoT_overview.png)
 
 👉🏻This repository contains the paper list for the paper: Sparks of Language Intelligence: From Chain-of-Thought Reasoning to Language Agent Automation. 
 
