@@ -1,6 +1,6 @@
 # Sparks of Language Intelligence: From Chain-of-Thought Reasoning to Language Agent Automation
 
-![CoT_overview](\fig\CoT_overview.png)
+![image](https://github.com/Zoeyyao27/CoT2Agent/blob/main/fig/CoT_overview.png)
 
 👉🏻This repository contains the paper list for the paper: Sparks of Language Intelligence: From Chain-of-Thought Reasoning to Language Agent Automation. 
 
@@ -8,7 +8,25 @@
 
 ## Contents
 
-[TOC]
+- [Sparks of Language Intelligence: From Chain-of-Thought Reasoning to Language Agent Automation](#sparks-of-language-intelligence-from-chain-of-thought-reasoning-to-language-agent-automation)
+  - [Contents](#contents)
+  - [Paradigm Shifts of CoT](#paradigm-shifts-of-cot)
+    - [1. Prompting Paradigm](#1-prompting-paradigm)
+      - [1.1 Instruction Generation](#11-instruction-generation)
+      - [1.2 Exemplar Generation](#12-exemplar-generation)
+    - [2. CoT Reasoning](#2-cot-reasoning)
+      - [2.1 CoT Formulation](#21-cot-formulation)
+      - [2.2 Reasoning Aggregation](#22-reasoning-aggregation)
+      - [2.3 CoT Verification](#23-cot-verification)
+    - [3. CoT Application](#3-cot-application)
+      - [3.1 CoT Extension 🖼️](#31-cot-extension-️)
+      - [3.2 CoT for Classic NLP Task 📖](#32-cot-for-classic-nlp-task-)
+      - [3.3 CoT for Agent🤖](#33-cot-for-agent)
+      - [3.4 CoT for Science 🧪](#34-cot-for-science-)
+    - [4. CoT Explanation](#4-cot-explanation)
+    - [5. CoT Safety](#5-cot-safety)
+  - [Citation](#citation)
+
 
 ## Paradigm Shifts of CoT
 
@@ -70,7 +88,7 @@
 
 #### 2.1 CoT Formulation
 
-![image-20231012211541542](\fig\CoT_formulation.png)
+![image](https://github.com/Zoeyyao27/CoT2Agent/blob/main/fig/CoT_formulation.png)
 
 - **Program-of-thoughts**
 
@@ -164,7 +182,7 @@
 
 #### 3.1 CoT Extension 🖼️
 
-![image-20231012211643802](\fig\CoT_extension.png)
+![image](https://github.com/Zoeyyao27/CoT2Agent/blob/main/fig/CoT_extension.png)
 
 - **Multilingual-CoT**
 
@@ -200,7 +218,8 @@
 
 #### 3.3 CoT for Agent🤖
 
-![image-20231012215933317](\fig\CoT_agent.png)
+![image](https://github.com/Zoeyyao27/CoT2Agent/blob/main/fig/CoT_agent.png)
+
 
 - **ReAcT**
 
