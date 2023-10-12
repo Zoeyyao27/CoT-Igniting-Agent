@@ -1,6 +1,6 @@
 # Sparks of Language Intelligence: From Chain-of-Thought Reasoning to Language Agent Automation
 
-![CoT_overview](F:\papers\cot_review\github\fig\CoT_overview.png)
+![CoT_overview](fig\CoT_overview.png)
 
 👉🏻This repository contains the paper list for the paper: Sparks of Language Intelligence: From Chain-of-Thought Reasoning to Language Agent Automation. 
 
