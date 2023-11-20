@@ -1,6 +1,7 @@
-# Sparks of Language Intelligence: From Chain-of-Thought Reasoning to Language Agent Automation
+# Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents
 
-![image](https://github.com/Zoeyyao27/CoT2Agent/blob/main/fig/CoT_overview.png)
+![image](https://github.com/Zoeyyao27/CoT2Agent/blob/main/fig/teasing_figure.png)
+
 
 👉🏻This repository contains the paper list for the paper: Sparks of Language Intelligence: From Chain-of-Thought Reasoning to Language Agent Automation. 
 
@@ -8,7 +9,7 @@
 
 ## Contents
 
-- [Sparks of Language Intelligence: From Chain-of-Thought Reasoning to Language Agent Automation](#sparks-of-language-intelligence-from-chain-of-thought-reasoning-to-language-agent-automation)
+- [Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents](#igniting-language-intelligence-the-hitchhikers-guide-from-chain-of-thought-reasoning-to-language-agents)
   - [Contents](#contents)
   - [Paradigm Shifts of CoT](#paradigm-shifts-of-cot)
     - [1. Prompting Paradigm](#1-prompting-paradigm)
@@ -25,10 +26,15 @@
       - [3.4 CoT for Science 🧪](#34-cot-for-science-)
     - [4. CoT Explanation](#4-cot-explanation)
     - [5. CoT Safety](#5-cot-safety)
+  - [CoT Agent](#cot-agent)
+    - [Communicative Agent](#communicative-agent)
+    - [Autonomous Agent](#autonomous-agent)
   - [Citation](#citation)
 
 
 ## Paradigm Shifts of CoT
+
+![image](https://github.com/Zoeyyao27/CoT2Agent/blob/main/fig/CoT_overview.png)
 
 ### 1. Prompting Paradigm
 
@@ -288,6 +294,167 @@
   Shaikh O, Zhang H, Held W, et al. ACL 2023
 
 
+## CoT Agent
+![image](https://github.com/Zoeyyao27/CoT2Agent/blob/main/fig/representative_agents.png)
+### Communicative Agent
+- **CAMEL**
+  
+  [2023.03] CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society [[paper]](https://arxiv.org/abs/2303.17760)
+  
+  Li G, Hammoud H A A K, Itani H, et al. NIPS 2023.
 
+- **Generative Agents**
+  
+  [2023.04] Generative agents: Interactive simulacra of human behavior [[paper]](https://arxiv.org/abs/2304.03442)
+  
+  Park J S, O'Brien J C, Cai C J, et al. arXiv.
+
+- **Voyager**
+  
+  [2023.05] Voyager: An open-ended embodied agent with large language models [[paper]](https://arxiv.org/abs/2305.16291) 
+
+  Wang G, Xie Y, Jiang Y, et al. arXiv.
+
+- **GITM**
+  
+  [2023.05] Ghost in the Minecraft: Generally Capable Agents for Open-World Enviroments via Large Language Models with Text-based Knowledge and Memory [[paper]](https://arxiv.org/abs/2305.17144)
+
+  Zhu X, Chen Y, Tian H, et al. arXiv.
+
+- **MetaGPT**
+  
+  [2023.08] Metagpt: Meta programming for multi-agent collaborative framework [[paper]](https://arxiv.org/abs/2308.00352)
+
+  Hong S, Zheng X, Chen J, et al. arXiv.
+
+- **ChatDev**
+
+  Communicative agents for software development [[paper]](https://arxiv.org/abs/2307.07924)
+
+  Qian C, Cong X, Yang C, et al. arXiv.
+
+- **MAD**
+
+  [2023.05] Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate [[paper]](https://arxiv.org/abs/2305.19118)
+
+  Liang T, He Z, Jiao W, et al. arXiv.
+
+- **Multiagent Debate**
+
+  [2023.05] Improving Factuality and Reasoning in Language Models through Multiagent Debate [[paper]](https://arxiv.org/abs/2305.14325)
+
+  Du Y, Li S, Torralba A, et al. arXiv.
+
+- **FORD**
+  
+   [2023.05] Examining the Inter-Consistency of Large Language Models: An In-depth Analysis via Debate [[paper]](https://arxiv.org/abs/2305.11595)
+
+   Xiong K, Ding X, Cao Y, et al. arXiv.
+
+
+- **TE**
+
+  [2022.08] Using large language models to simulate multiple humans and replicate human subject studies [[paper]](https://proceedings.mlr.press/v202/aher23a.html)
+
+  Aher G V, Arriaga R I, Kalai A T. ICML 2023.
+
+- **VIMA**
+
+  [2022.10] Vima: General robot manipulation with multimodal prompts [[paper]](https://arxiv.org/abs/2210.03094)
+
+  Jiang Y, Gupta A, Zhang Z, et al. arXiv.
+
+- **React**
+
+  [2022.10] React: Synergizing reasoning and acting in language models [[paper]](https://arxiv.org/abs/2210.03629)
+
+  Yao S, Zhao J, Yu D, et al. ICLR 2023.
+
+
+- **Reflexion**
+
+  [2023.03] Reflexion: Language agents with verbal reinforcement learning [[paper]](https://arxiv.org/abs/2303.11366)
+
+  Shinn N, Cassano F, Gopinath A, et al. NIPS 2023.
+
+### Autonomous Agent
+- **AutoGPT**
+  
+  [2023.03] Auto-gpt: An autonomous gpt-4 experiment [[code]](https://github.com/Significant-Gravitas/Auto-GPT)
+
+  Richards, Toran Bruce.
+
+- **BabyAGI**
+
+  [2023.04] BabyAGI [[code]](https://github.com/yoheinakajima/babyagi)
+
+  Nakajima, Yohei
+
+- **AgentGPT**
+  
+  [2023.09] AgentGPT [[code]](https://github.com/reworkd/AgentGPT)
+
+  Reworkd
+
+- **Auto-UI**
+
+  [2023.09] You Only Look at Screens: Multimodal Chain-of-Action Agents [[paper]](https://arxiv.org/abs/2309.11436)
+
+  Zhan Z, Zhang A. arXiv.
+
+- **AITW**
+  
+  [2023.09] Android in the wild: A large-scale dataset for android device control [[paper]](https://arxiv.org/abs/2307.10088)
+
+  Rawles C, Li A, Rodriguez D, et al. arXiv.
+
+
+- **DCACQ**
+
+  [2023.04] Improving grounded language understanding in a collaborative environment by interacting with agents through help feedback [[paper]](https://arxiv.org/abs/2304.10750) 
+
+  Mehta N, Teruel M, Sanz P F, et al. arXiv.
+
+
+- **ChemCrow**
+
+  [2023.04] ChemCrow: Augmenting large-language models with chemistry tools [[paper]](https://arxiv.org/abs/2304.05376)
+
+  Bran A M, Cox S, White A D, et al. arXiv.
+
+- **Chatmof**
+
+  [2023.08] Chatmof: An autonomous ai system for predicting and generating metal-organic frameworks [[paper]](https://arxiv.org/abs/2308.01423)
+
+  Kang Y, Kim J. arXiv.
+
+- **IASSE**
+
+  [2023.04] Emergent autonomous scientific research capabilities of large language models [[paper]](https://arxiv.org/abs/2304.05332)
+
+  Boiko D A, MacKnight R, Gomes G. arXiv.
+
+- **CodePlan**
+
+  [2023.09] CodePlan: Repository-level Coding using LLMs and Planning [[paper]](https://sci-hub.ru/https://arxiv.org/abs/2309.12499)
+
+  Bairi R, Sonwane A, Kanade A, et al. arXiv.
+
+- **ToRA**
+
+  [2023.09] ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving [[paper]](https://arxiv.org/abs/2309.17452)
+
+  Gou Z, Shao Z, Gong Y, et al. arXiv.
+
+- **Toolformer**
+
+  [2023.02] Toolformer: Language models can teach themselves to use tools [[paper]](https://arxiv.org/abs/2302.04761)
+
+  Schick T, Dwivedi-Yu J, Dessì R, et al. arXiv.
+
+- **Fireact**
+
+  [2023.10] FireAct: Toward Language Agent Fine-tuning [[paper]](https://arxiv.org/abs/2310.05915)
+  Chen B, Shu C, Shareghi E, et al. 
 ## Citation
 
