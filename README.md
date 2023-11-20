@@ -3,7 +3,7 @@
 ![image](https://github.com/Zoeyyao27/CoT2Agent/blob/main/fig/teasing_figure.png)
 
 
-👉🏻This repository contains the paper list for the paper: Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents
+👉🏻This repository contains the paper list for the paper: **Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents**
 
 👀Please check out our paper for more information！🫡
 
