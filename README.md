@@ -457,7 +457,7 @@
   [2023.10] FireAct: Toward Language Agent Fine-tuning [[paper]](https://arxiv.org/abs/2310.05915)
   Chen B, Shu C, Shareghi E, et al. 
 ## Citation
-'''
+```
 @misc{zhang2023igniting,
       title={Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents}, 
       author={Zhuosheng Zhang and Yao Yao and Aston Zhang and Xiangru Tang and Xinbei Ma and Zhiwei He and Yiming Wang and Mark Gerstein and Rui Wang and Gongshen Liu and Hai Zhao},
@@ -466,4 +466,4 @@
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
-'''
+```
