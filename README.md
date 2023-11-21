@@ -5,7 +5,7 @@
 
 👉🏻This repository contains the paper list for the paper: **Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents**
 
-👀Please check out our paper for more information！🫡
+👀Please check out our paper for more information！[[paper]](https://arxiv.org/pdf/2311.11797.pdf)🫡
 
 ## Contents
 
@@ -457,4 +457,11 @@
   [2023.10] FireAct: Toward Language Agent Fine-tuning [[paper]](https://arxiv.org/abs/2310.05915)
   Chen B, Shu C, Shareghi E, et al. 
 ## Citation
-
+@misc{zhang2023igniting,
+      title={Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents}, 
+      author={Zhuosheng Zhang and Yao Yao and Aston Zhang and Xiangru Tang and Xinbei Ma and Zhiwei He and Yiming Wang and Mark Gerstein and Rui Wang and Gongshen Liu and Hai Zhao},
+      year={2023},
+      eprint={2311.11797},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
