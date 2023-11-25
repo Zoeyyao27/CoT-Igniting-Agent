@@ -32,7 +32,7 @@
   - [Citation](#citation)
 
 
-## Paradigm Shifts of CoT
+## Paradigms of CoT Research
 
 ![image](https://github.com/Zoeyyao27/CoT2Agent/blob/main/fig/CoT_overview.png)
 
