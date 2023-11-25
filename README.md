@@ -317,7 +317,7 @@
 
 - **GITM**
   
-  [2023.05] Ghost in the Minecraft: Generally Capable Agents for Open-World Enviroments via Large Language Models with Text-based Knowledge and Memory [[paper]](https://arxiv.org/abs/2305.17144)
+  [2023.05] Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory [[paper]](https://arxiv.org/abs/2305.17144)
 
   Zhu X, Chen Y, Tian H, et al. arXiv.
 
